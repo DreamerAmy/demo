@@ -7,7 +7,7 @@
   "proverb": [
     { "id": 1, "body": "Actions speak louder than words.", "postId": 1 },
     { "id": 2, "body": "Easy come, easy go.", "postId": 2 },
-    { "id": 3, "body": "Don’t judge a book by its cover.", "postId": 1 },
+    { "id": 3, "body": "Don’t judge a book by its cover.", "postId": 3 }
   ],
   "profile": {
     "name": "typicode"
