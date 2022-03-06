@@ -1,12 +1,13 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "username": "Adam" },
+    { "id": 2, "username": "Eve" },
+    { "id": 3, "username": "David" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "proverb": [
+    { "id": 1, "body": "Actions speak louder than words.", "postId": 1 },
+    { "id": 2, "body": "Easy come, easy go.", "postId": 2 },
+    { "id": 3, "body": "Don’t judge a book by its cover.", "postId": 1 },
   ],
   "profile": {
     "name": "typicode"
