@@ -1,15 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "username": "Adam" },
-    { "id": 2, "username": "Eve" },
-    { "id": 3, "username": "David" }
+  "Users": [
+    { "name": "Adam" },
+    { "name": "Eve" },
+    { "name": "David" }
   ],
-  "proverb": [
-    { "id": 1, "body": "Actions speak louder than words.", "postId": 1 },
-    { "id": 2, "body": "Easy come, easy go.", "postId": 2 },
-    { "id": 3, "body": "Don’t judge a book by its cover.", "postId": 3 }
+  "proverbs": [
+    { "body": "Actions speak louder than words."},
+    { "body": "Easy come, easy go."},
+    { "body": "Don’t judge a book by its cover." }
   ],
-  "profile": {
-    "name": "typicode"
+  "Employees" : [
+  {
+  "userId":"rirani",
+  "jobTitleName":"Developer",
+  "firstName":"Romin",
+  "lastName":"Irani",
+  "preferredFullName":"Romin Irani",
+  "employeeCode":"E1",
+  "region":"CA",
+  "phoneNumber":"408-1234567",
+  "emailAddress":"romin.k.irani@gmail.com"
+  },
+  {
+  "userId":"nirani",
+  "jobTitleName":"Developer",
+  "firstName":"Neil",
+  "lastName":"Irani",
+  "preferredFullName":"Neil Irani",
+  "employeeCode":"E2",
+  "region":"CA",
+  "phoneNumber":"408-1111111",
+  "emailAddress":"neilrirani@gmail.com"
+  },
+  {
+  "userId":"thanks",
+  "jobTitleName":"Program Directory",
+  "firstName":"Tom",
+  "lastName":"Hanks",
+  "preferredFullName":"Tom Hanks",
+  "employeeCode":"E3",
+  "region":"CA",
+  "phoneNumber":"408-2222222",
+  "emailAddress":"tomhanks@gmail.com"
   }
+  ]
 }
