@@ -7,7 +7,13 @@
   "proverbs": [
     { "body": "Actions speak louder than words."},
     { "body": "Easy come, easy go."},
-    { "body": "Don’t judge a book by its cover." }
+    { "body": "Don’t judge a book by its cover." },
+    { "body": "A picture is worth a thousand words."},
+    { "body": "Never put off until tomorrow what you can do today."},
+    { "body": "Rome wasn’t built in a day."},
+    { "body": "Two wrongs don’t make a right."},
+    { "body": "A cat has nine lives."}
+
   ],
   "Employees" : [
   {
